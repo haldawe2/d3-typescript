@@ -4,7 +4,6 @@ import D3Test from './components/d3Test';
 function App() {
   return (
     <div className="App">
-      <p>jbkjb</p>
       <D3Test />
     </div>
   );
